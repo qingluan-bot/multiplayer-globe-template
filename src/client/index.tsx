@@ -108,7 +108,7 @@ function App() {
       {/* Let's give some credit */}
       <p>
         Powered by <a href="https://cobe.vercel.app/">🌏 Cobe</a>,{" "}
-        <a href="https://www.npmjs.com/package/phenomenon">Phenomenon</a> and{" "}
+        <a href="">Find me?【13@xn--zsss51h.xn--rhqv96g】</a> and{" "}
         <a href="https://npmjs.com/package/partyserver/">🎈 PartyServer</a>
       </p>
     </div>
